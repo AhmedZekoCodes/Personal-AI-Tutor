@@ -79,7 +79,7 @@ const FileUpload: React.FC = () => {
             <p className="text-gray-400 max-w-md mx-auto">
               {isProcessing 
                 ? 'We\'re analyzing your document to provide personalized tutoring.' 
-                : 'Upload your PDF, PPTX, or DOCX file (max 10MB) to start your AI tutoring session.'}
+                : 'Upload your presentations, lectures, or even just a syllabus!'}
             </p>
           </div>
           
