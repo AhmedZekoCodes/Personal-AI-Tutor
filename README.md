@@ -1,4 +1,4 @@
-# 🎓 DropLearn.io – Your Personal AI-Powered Tutor
+# 🎓 DropLearn.io – Your Personal AI-Powered Tutor (Still in progress)
 
 **DropLearn.io** is a fully responsive web app designed to help students learn faster using AI. This tool takes any lecture material or syllabus and turns it into an interactive tutoring experience — powered by voice or chat.
 
